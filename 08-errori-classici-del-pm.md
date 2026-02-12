@@ -467,4 +467,5 @@ Fare il PM hardware significa affrontare problemi nuovi, tecnologie in evoluzion
 
 ---
 
-**Fine della guida!** Ora hai gli strumenti per fare il PM hardware con competenza, pragmatismo e un pizzico di sana ironia. Ricorda: **Dai, dai, dai!** 🚀
+**Fine della guida!** Ora hai gli strumenti per fare il PM hardware con competenza, pragmatismo e un pizzico di sana ironia. 
+Ricorda: **Dai, dai, dai!** 🚀
