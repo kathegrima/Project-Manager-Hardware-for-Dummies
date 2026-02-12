@@ -156,8 +156,10 @@ Il PM è un **orchestratore**. Come un direttore d'orchestra: non suona tutti gl
 
 > *"Niente in questo mondo che valga veramente la pena di avere arriva facilmente."* – Dr. Cox (Scrubs)
 
-Il PM è un orchestratore. Come un direttore d'orchestra: non suona tutti gli strumenti, ma sa quando ognuno deve entrare e a che volume. Non fa tutto, ma è responsabile che tutto vada come deve andare. E quando qualcosa va male, lo sanno tutti dove venire a lamentarsi.
-Portare a termine un progetto hardware richiede impegno, coordinamento e tanta pazienza. Ma quando funziona, ne vale la pena.
+Il PM è un orchestratore, è come un direttore d'orchestra: non suona tutti gli strumenti ma sa quando ognuno deve entrare e a che volume. 
+Non fa tutto, ma è responsabile che tutto vada come deve andare; e quando qualcosa va male, lo sanno tutti dove venire a lamentarsi.
+
+Portare a termine un progetto hardware richiede impegno, coordinamento e tanta pazienza ma quando tutto funziona, ne vale davvero la pena.
  
 ---
 
@@ -165,12 +167,12 @@ Portare a termine un progetto hardware richiede impegno, coordinamento e tanta p
 
 Un PM hardware competente:
 
-✅ **Riduce i rischi** identificandoli per tempo  
-✅ **Evita sprechi** pianificando bene le risorse  
-✅ **Accelera il time-to-market** coordinando in modo efficiente  
-✅ **Migliora la qualità** assicurando processi solidi  
-✅ **Mantiene il team allineato** con comunicazione chiara  
-✅ **Protegge il budget** evitando sorprese costose  
+ **Riduce i rischi** identificandoli per tempo  
+ **Evita sprechi** pianificando bene le risorse  
+ **Accelera il time-to-market** coordinando in modo efficiente  
+ **Migliora la qualità** assicurando processi solidi  
+ **Mantiene il team allineato** con comunicazione chiara  
+ **Protegge il budget** evitando sorprese costose  
 
 Un PM scarso? Fa esattamente l'opposto. E costa molto di più di quanto risparmia il suo stipendio.
 
@@ -180,7 +182,7 @@ Un PM scarso? Fa esattamente l'opposto. E costa molto di più di quanto risparmi
 
 > *"Whenever I'm sad, I stop being sad and be awesome instead."* – Barney Stinson (How I Met Your Mother)
 
-Quando il progetto va male (e andrà male), il PM non può permettersi di piangersi addosso. Deve trovare la soluzione. Subito.
+Quando il progetto va male (e andrà male), il PM non può permettersi di piangersi addosso: deve trovare la soluzione e subito.
 
 ---
 
