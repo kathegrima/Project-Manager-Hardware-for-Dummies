@@ -148,7 +148,7 @@ Facciamo chiarezza. Il PM **NON è**:
 - **Un factotum**: non fa tutto lui, coordina chi lo fa
 - **Un magazziniere**: non ordina componenti (ma si assicura che vengano ordinati)
 
-Il PM è un **orchestratore**. Come un direttore d'orchestra: non suona tutti gli strumenti, ma sa quando ognuno deve entrare e a che volume.
+Il PM è un **orchestratore**. Come un direttore d'orchestra: non suona tutti gli strumenti ma sa quando ognuno deve entrare e a che volume.
 
 ---
 
@@ -156,8 +156,7 @@ Il PM è un **orchestratore**. Come un direttore d'orchestra: non suona tutti gl
 
 > *"Niente in questo mondo che valga veramente la pena di avere arriva facilmente."* – Dr. Cox (Scrubs)
 
-Il PM è un orchestratore, è come un direttore d'orchestra: non suona tutti gli strumenti ma sa quando ognuno deve entrare e a che volume. 
-Non fa tutto, ma è responsabile che tutto vada come deve andare; e quando qualcosa va male, lo sanno tutti dove venire a lamentarsi.
+Il PM non fa tutto ma è responsabile che tutto vada come deve andare; e quando qualcosa va male, lo sanno tutti dove venire a lamentarsi.
 
 Portare a termine un progetto hardware richiede impegno, coordinamento e tanta pazienza ma quando tutto funziona, ne vale davvero la pena.
  
@@ -174,7 +173,7 @@ Un PM hardware competente:
  **Mantiene il team allineato** con comunicazione chiara  
  **Protegge il budget** evitando sorprese costose  
 
-Un PM scarso? Fa esattamente l'opposto. E costa molto di più di quanto risparmia il suo stipendio.
+Un PM poco attento? Fa esattamente l'opposto. E costa molto di più di quanto risparmia il suo stipendio.
 
 ---
 
