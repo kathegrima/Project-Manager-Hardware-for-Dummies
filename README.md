@@ -94,13 +94,13 @@ Le citazioni non sono lì per fare i fighi. Sono lì perché **funzionano**: ren
 
 Al termine di questa guida saprai:
 
-Creare una **WBS** e un **Gantt** senza andare in panico  
-Gestire una **Bill of Materials** (BOM) e comunicare con i fornitori  
-Identificare e mitigare i **rischi** prima che diventino disastri  
-Gestire **change request** senza far esplodere il budget  
-Applicare principi **Agile** all'hardware (con buon senso)  
-Comunicare efficacemente con stakeholder tecnici e non  
-Riconoscere gli **errori comuni** e evitarli  
+• Creare una **WBS** e un **Gantt** senza andare in panico  
+• Gestire una **Bill of Materials** (BOM) e comunicare con i fornitori  
+• Identificare e mitigare i **rischi** prima che diventino disastri  
+• Gestire **change request** senza far esplodere il budget  
+• Applicare principi **Agile** all'hardware (con buon senso)  
+• Comunicare efficacemente con stakeholder tecnici e non  
+• Riconoscere gli **errori comuni** e evitarli  
 
 ---
 
