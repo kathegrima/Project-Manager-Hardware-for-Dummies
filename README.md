@@ -86,21 +86,21 @@ Troverai riferimenti a:
 - **How I Met Your Mother**: per la pianificazione e le relazioni interpersonali
 - **The Big Bang Theory**: per gli aspetti tecnici e il lavoro in team
 
-Le citazioni non sono lì per fare i fighi. Sono lì perché **funzionano**: rendono i concetti più chiari, più memorabili, più umani.
+Le citazioni non sono lì per fare i fighi. Sono lì perché **funzionano**: rendono i concetti più chiari e spesso anche memorabili.
 
 ---
 
-## Cosa imparerai
+## Cosa imparerai/ripasserai
 
 Al termine di questa guida saprai:
 
-✅ Creare una **WBS** e un **Gantt** senza andare in panico  
-✅ Gestire una **Bill of Materials** (BOM) e comunicare con i fornitori  
-✅ Identificare e mitigare i **rischi** prima che diventino disastri  
-✅ Gestire **change request** senza far esplodere il budget  
-✅ Applicare principi **Agile** all'hardware (con buon senso)  
-✅ Comunicare efficacemente con stakeholder tecnici e non  
-✅ Riconoscere gli **errori comuni** e evitarli  
+Creare una **WBS** e un **Gantt** senza andare in panico  
+Gestire una **Bill of Materials** (BOM) e comunicare con i fornitori  
+Identificare e mitigare i **rischi** prima che diventino disastri  
+Gestire **change request** senza far esplodere il budget  
+Applicare principi **Agile** all'hardware (con buon senso)  
+Comunicare efficacemente con stakeholder tecnici e non  
+Riconoscere gli **errori comuni** e evitarli  
 
 ---
 
