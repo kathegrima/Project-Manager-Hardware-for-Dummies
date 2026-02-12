@@ -104,6 +104,18 @@ Al termine di questa guida saprai:
 
 ---
 
+## 📚 Vuoi approfondire?
+
+Questa guida ti insegna **i concetti fondamentali** del PM hardware in modo accessibile. Se vuoi andare oltre e avere **template pronti all'uso**, processi dettagliati e strumenti operativi, dai un'occhiata a:
+
+👉 **[Hardware PM Starter Kit](https://github.com/kathegrima/hardware-pm-starter-kit)**
+
+Un repository complementare con template operativi (Risk Register, BOM, Status Report), checklist pratiche (Design Review, NPI readiness), esempi di Gantt e WBS, e guide dettagliate su processi specifici.
+
+**Quando usarla:** Hai capito i concetti qui e ora vuoi applicarli con strumenti concreti.
+
+---
+
 ## Contribuisci
 
 Questa guida è viva. Se hai:
