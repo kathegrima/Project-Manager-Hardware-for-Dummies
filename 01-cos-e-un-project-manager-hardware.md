@@ -157,8 +157,7 @@ Il PM è un **orchestratore**. Come un direttore d'orchestra: non suona tutti gl
 > *"Niente in questo mondo che valga veramente la pena di avere arriva facilmente."* – Dr. Cox (Scrubs)
 
 Il PM è un orchestratore. Come un direttore d'orchestra: non suona tutti gli strumenti, ma sa quando ognuno deve entrare e a che volume. Non fa tutto, ma è responsabile che tutto vada come deve andare. E quando qualcosa va male, lo sanno tutti dove venire a lamentarsi.
-
-Portare a termine un progetto hardware richiede impegno, coordinamento e tanta pazienza. Ma quando funziona, ne vale la pena.
+Portare a termine un progetto hardware richiede impegno, coordinamento e tanta pazienza. Ma quando funziona, ne vale la pena. 
 ---
 
 ## Il valore di un buon PM
