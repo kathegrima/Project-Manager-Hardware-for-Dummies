@@ -31,6 +31,7 @@ La WBS parte dal risultato finale (il prodotto completo) e lo scompone progressi
 
 **Esempio per lo sviluppo di un sensore IoT:**
 
+```
 Sensore IoT (Livello 0)
 ├── Hardware (Livello 1)
 │ ├── Schematic design (Livello 2)
@@ -48,6 +49,7 @@ Sensore IoT (Livello 0)
 ├── Test funzionali (Livello 2)
 ├── Test ambientali (Livello 2)
 └── Certificazioni (Livello 2)
+```
 
 
 Ogni elemento del livello più basso diventa un work package: un'unità di lavoro con responsabilità chiara, durata stimabile e deliverable definito.
