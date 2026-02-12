@@ -6,7 +6,7 @@ Una guida per sopravvivere (e prosperare) come Project Manager nel mondo hardwar
 
 ---
 
-## 📖 Di cosa parliamo
+## Di cosa parliamo
 
 Sei un ingegnere hardware che improvvisamente si ritrova a gestire persone, fornitori e deadline impossibili? Vuoi diventare PM ma non sai da dove iniziare? Hai sentito parlare di "Agile per hardware" e ti sei chiesto se chi l'ha proposto avesse mai visto una scheda elettronica?
 
@@ -22,7 +22,7 @@ Non è un manuale universitario. Non è un blog motivazionale. È una guida prat
 
 ---
 
-## 🎯 Per chi è questa guida
+## Per chi è questa guida
 
 - **Aspiranti PM** che vengono dal mondo tecnico
 - **Ingegneri hardware** in fase di transizione verso ruoli di coordinamento
@@ -31,7 +31,7 @@ Non è un manuale universitario. Non è un blog motivazionale. È una guida prat
 
 ---
 
-## 📚 Struttura della guida
+## Struttura della guida
 
 La guida è divisa in 8 capitoli navigabili:
 
@@ -61,7 +61,7 @@ La guida è divisa in 8 capitoli navigabili:
 
 ---
 
-## 🚀 Come usare questa guida
+## Come usare questa guida
 
 Ogni capitolo è autoconsistente. Puoi:
 
@@ -70,13 +70,13 @@ Ogni capitolo è autoconsistente. Puoi:
 - **Usarla come reference** quando sei nei guai e hai bisogno di un concetto veloce
 
 Ogni sezione include:
-- 💡 **Concetti chiave** (le cose da ricordare)
-- 🎬 **Momenti Serie TV** (perché imparare deve essere anche divertente)
-- 🧠 **Cosa deve ricordare un PM** (il riassunto finale di ogni capitolo)
+-  **Concetti chiave** (le cose da ricordare)
+-  **Momenti Serie TV** (perché imparare deve essere anche divertente)
+-  **Cosa deve ricordare un PM** (il riassunto finale di ogni capitolo)
 
 ---
 
-## 🎬 Perché le citazioni da serie TV?
+## Perché le citazioni da serie TV?
 
 Perché spiegare concetti complessi con esempi familiari funziona meglio di 100 slide PowerPoint.
 
@@ -90,7 +90,7 @@ Le citazioni non sono lì per fare i fighi. Sono lì perché **funzionano**: ren
 
 ---
 
-## 🛠️ Cosa imparerai
+## Cosa imparerai
 
 Al termine di questa guida saprai:
 
@@ -104,7 +104,7 @@ Al termine di questa guida saprai:
 
 ---
 
-## 📝 Contribuisci
+## Contribuisci
 
 Questa guida è viva. Se hai:
 - Suggerimenti per migliorarla
@@ -118,7 +118,7 @@ Il mondo del PM hardware è vasto, e nessuno sa tutto. Ogni contributo è benven
 
 ---
 
-## 🤝 Filosofia della guida
+## Filosofia della guida
 
 > *"Dai, dai, dai!"* – René Ferretti (Boris)
 
@@ -136,10 +136,10 @@ Se ti ritrovi in questa filosofia, sei nel posto giusto.
 
 ---
 
-## 📖 Come leggere questa guida
+## Come leggere questa guida
 
 ### Se hai poco tempo
-Leggi i box 🧠 **"Cosa deve ricordare un PM"** alla fine di ogni capitolo. Sono i TL;DR dei concetti fondamentali.
+Leggi i box **"Cosa deve ricordare un PM"** alla fine di ogni capitolo. Sono i TL;DR dei concetti fondamentali.
 
 ### Se vuoi approfondire
 Leggi i capitoli dall'inizio. Ogni sezione include esempi, tabelle e schemi pratici.
@@ -149,7 +149,7 @@ Usa l'indice per saltare direttamente al problema che stai affrontando (gestione
 
 ---
 
-## 🎓 Prerequisiti
+## Prerequisiti
 
 **Nessuno.**
 
@@ -162,25 +162,25 @@ Tutto il resto è spiegato qui dentro.
 
 ---
 
-## ⚖️ Licenza
+## Licenza
 
 Questa guida è rilasciata sotto licenza:
 
 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
 
 Significa che puoi:
-- ✅ Condividerla
-- ✅ Modificarla
-- ✅ Adattarla alle tue esigenze
+- Condividerla
+- Modificarla
+- Adattarla alle tue esigenze
 
 A condizione che:
-- 📌 Citi la fonte originale
-- 📌 Non la usi per scopi commerciali
-- 📌 Condividi le modifiche con la stessa licenza
+- Citi la fonte originale
+- Non la usi per scopi commerciali
+- Condividi le modifiche con la stessa licenza
 
 ---
 
-## 🙏 Ringraziamenti
+## Ringraziamenti
 
 A tutti i PM hardware che:
 - Hanno condiviso le loro esperienze (e i loro disastri)
@@ -191,7 +191,7 @@ E a tutti quelli che stanno per iniziare questo percorso: **in bocca al lupo**. 
 
 ---
 
-## 📬 Contatti
+## Contatti
 
 Autore: [@kathegrima](https://github.com/kathegrima)
 
@@ -200,7 +200,7 @@ Apri una **issue** su GitHub o contattami direttamente.
 
 ---
 
-## 🎯 Inizia da qui
+## Inizia da qui
 
 Pronto? Inizia dal **[Capitolo 1: Cos'è un Project Manager Hardware](./01-cos-e-un-project-manager-hardware.md)**
 
